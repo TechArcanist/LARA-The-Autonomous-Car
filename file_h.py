@@ -1,0 +1,5 @@
+f=open("Subject Invitation to Participate i","w+")
+f.write("Python")
+f.seek(0)
+print(f.read())
+f.close()
